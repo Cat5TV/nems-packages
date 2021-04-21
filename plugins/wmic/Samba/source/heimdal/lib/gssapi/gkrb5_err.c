@@ -1,4 +1,4 @@
-/* Generated from /s/TEMP/NOBACKUP/wmi-1.3.14/Samba/source/heimdal/lib/gssapi/krb5/gkrb5_err.et */
+/* Generated from /opt/nagios/rpm/wmi-1.4.0/Samba/source/heimdal/lib/gssapi/krb5/gkrb5_err.et */
 /* $Id: gkrb5_err.et,v 1.1 2006/11/09 23:52:17 lha Exp $ */
 
 #include <stddef.h>
