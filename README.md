@@ -1,9 +1,9 @@
 # nems-projects
-Various project codebases for NEMS Linux
+Various packaging codebases for NEMS Linux
 
 ## plugins
 
-Various Nagios plugins for NEMS Linux
+Nagios plugins for NEMS Linux
 
 ### wmi
 
