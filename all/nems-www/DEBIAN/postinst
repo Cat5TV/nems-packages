@@ -23,4 +23,6 @@ echo "SecServerSignature NEMS_Linux/$ver" >> /etc/apache2/conf-available/securit
     /bin/sed -i '/upload_max_filesize =/c\upload_max_filesize = 16M' /etc/php/*/phpdbg/php.ini
   fi
 
+chown -R www-data:www-data /var/www/html/
+
 /bin/systemctl restart apache2

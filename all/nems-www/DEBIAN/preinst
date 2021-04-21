@@ -1,7 +1,6 @@
 #!/bin/bash
 
 useradd www-data
-chown -R www-data:www-data nems-www
 
 # Remove the Apache placeholder, if it exists
 if [[ -e /var/www/html/index.html ]]; then
